@@ -12,8 +12,8 @@ Reference list for the poster **"Exploring feature space transformations for Art
 
 **[5]** K. Beyer, J. Goldstein, R. Ramakrishnan and U. Shaft. When is "nearest neighbor" meaningful? In *Database Theory, ICDT'99*, Lecture Notes in Computer Science, volume 1540, pages 217-235. Springer, 1999. https://doi.org/10.1007/3-540-49257-7_15
 
-**[6]** A. Luiggi-Gørrissen, T. J. Woldseth and P. C. Haddow. Exploring open dimensions in artificial immune systems for high-dimensional tasks. TODO: add the conference name and pages. IEEE, 2025. https://ieeexplore.ieee.org/document/10979838
+**[6]** A. Luiggi-Gørrissen, T. J. Woldseth and P. C. Haddow. Exploring open dimensions in artificial immune systems for high-dimensional tasks. In *2025 IEEE Symposium on Computational Intelligence in Artificial Life and Cooperative Intelligent Systems (ALIFE-CIS)*, pages 1-7, 2025. https://doi.org/10.1109/ALIFE-CIS64968.2025.10979838
 
-**[7]** A. Luiggi-Gørrissen and T. J. Woldseth. TODO: add the thesis title. Master's thesis, Norwegian University of Science and Technology (NTNU), 2023.
+**[7]** A. C. Ø. Luiggi-Gørrissen and T. J. Woldseth. *Beyond Traditional Boundaries: Exploiting Open Dimensions for Enhancing Fake News Detection with Artificial Immune Systems*. Master's thesis, Norwegian University of Science and Technology (NTNU), 2023.
 
-**[8]** Finden and Ripon, 2026. TODO: add the authors' initials, the title and where it was published.
+**[8]** A. C. Finden and K. S. N. Ripon. Evolutionary optimization of negative selection in reduced embedding spaces for fake news detection. In *2026 2nd International Conference on Artificial Intelligence Systems (AIS)*, pages 289-297, 2026. https://doi.org/10.1109/AIS69919.2026.11621269
